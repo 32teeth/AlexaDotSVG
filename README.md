@@ -1,7 +1,9 @@
 # Alexa Dot SVG
 > Repo Name Says It All
 
-<img src="AlexaDotSVG.png" height="128">
+![Alexa Dot SVG][dot]
+[dot]: AlexaDotSVG.png "Alexa Dot"
+
 
 Included in the repo are:
 * Sketch File
