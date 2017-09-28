@@ -6,7 +6,7 @@
 [dot]: AlexaDotSVG.png "Alexa Dot"
 
 
-Included in the repo are:
+###Included in the repo are:
 * Sketch File
 * SVG File
 * PNG File
