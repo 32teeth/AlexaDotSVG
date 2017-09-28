@@ -2,6 +2,7 @@
 > Repo Name Says It All
 
 ![Alexa Dot SVG][dot]
+
 [dot]: AlexaDotSVG.png "Alexa Dot"
 
 
